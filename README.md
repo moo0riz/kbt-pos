@@ -21,3 +21,4 @@ Data disimpan otomatis di **localStorage** (tanpa backend).
 # kbt-pos
 # kbt-pos
 # kbt-pos
+# kbt-pos
