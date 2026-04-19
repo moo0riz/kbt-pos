@@ -19,3 +19,4 @@ Data disimpan otomatis di **localStorage** (tanpa backend).
 - Edit / hapus barang
 - Ringkasan total (harga jual, total HPP, total margin)
 # kbt-pos
+# kbt-pos
