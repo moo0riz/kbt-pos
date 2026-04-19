@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html,
+  body {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    @apply bg-slate-50 text-slate-900;
+  }
+}
+
+@layer utilities {
+  .card {
+    @apply bg-white border border-slate-200 rounded-xl shadow-sm p-4;
+  }
+}
